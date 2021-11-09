@@ -29,6 +29,7 @@ header{
     height: 80px;
     background-color: coral;
     margin: 0.3em;
+    width: 50%;
 }
 
 justify-content-center{
