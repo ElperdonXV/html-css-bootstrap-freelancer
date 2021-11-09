@@ -19,3 +19,18 @@ header{
     align-items: center;
     text-align: center;
 }
+
+.portfolio{
+    padding: 3em;
+    text-align: center;
+}
+
+.col-design{
+    height: 80px;
+    background-color: coral;
+    margin: 0.3em;
+}
+
+justify-content-center{
+    justify-content: center;
+}
