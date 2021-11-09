@@ -1,0 +1,9 @@
+header{
+    background-color: aqua;
+}
+
+
+.menu{
+    display: flex;
+    justify-content: flex-end;
+}
