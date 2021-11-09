@@ -20,7 +20,7 @@ header{
     text-align: center;
 }
 
-.portfolio{
+.portfolio {
     padding: 3em;
     text-align: center;
 }
@@ -28,4 +28,21 @@ header{
 .col-design{
     height: 80px;
     background-color: coral;
+}
+
+.about{
+    padding: 3em;
+}
+
+.about h1, .about h2{
+    text-align: center;
+}
+
+.padding{
+    padding: 3em;
+}
+
+.about button{
+    display: block;
+    margin: 0 auto;
 }
