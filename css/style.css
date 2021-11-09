@@ -48,3 +48,24 @@ header{
     display: block;
     margin: 0 auto;
 }
+
+.contact{
+    padding: 3em;
+}
+
+.contact h1,h2{
+    text-align: center;
+}
+
+footer{
+    padding: 3em;
+    background-color: lightslategray;
+    color: white;
+}
+
+.footer-bottom{
+    background-color: darkslateblue;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
