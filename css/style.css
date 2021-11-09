@@ -23,6 +23,7 @@ header{
 .portfolio {
     padding: 3em;
     text-align: center;
+    background-color: darkkhaki;
 }
 
 .col-design{
@@ -32,6 +33,7 @@ header{
 
 .about{
     padding: 3em;
+    background-color: cornsilk;
 }
 
 .about h1, .about h2{
