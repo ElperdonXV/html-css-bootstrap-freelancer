@@ -58,6 +58,25 @@ header{
     text-align: center;
 }
 
+.avatar{
+    width: 30%;
+}
+
+.jumbo-container h1{
+    text-transform: uppercase;
+    color: white;
+    font-size: 2.5em;
+    margin: 0.5em 0;
+}
+
+.jumbo-container h2{
+    text-transform: uppercase;
+    color: white;
+    font-weight: normal;
+    font-size: 1.5em;
+    margin: 0.5em 0;
+}
+
 .portfolio {
     padding: 3em;
     text-align: center;
