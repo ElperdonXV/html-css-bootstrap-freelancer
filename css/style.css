@@ -121,6 +121,20 @@ header{
     text-align: center;
 }
 
+.portfolio h1{
+    text-transform: uppercase;
+    font-size: 2.5em;
+    margin: 0.5em 0;
+}
+
+.portfolio .star i{
+    color: black;
+}
+
+.bg-black{
+    background-color: black;
+}
+
 .portfolio-img img{
     max-width: 100%;
     border-radius: 10px;
