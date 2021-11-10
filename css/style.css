@@ -7,10 +7,43 @@ header{
     background-color: #2C3E50;
 }
 
+.hamburger-menu{
+    display: none;
+}
 
 .menu{
     display: flex;
     justify-content: flex-end;
+}
+
+.logo, .top-menu {
+    align-self: center;
+}
+
+.logo h1{
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;
+    font-size: 1.3em;
+    margin: 1em 0;
+}
+
+.top-menu{
+    list-style: none;
+    display: flex;
+    margin: 1em 0;
+}
+
+.top-menu li{
+    margin: 0 0.3em;
+}
+
+.top-menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+    font-size: 1em;
 }
 
 .jumbotron{
