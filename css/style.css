@@ -173,6 +173,14 @@ header{
     margin: 0.5em 0;
 }
 
+.form-fix{
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+}
+
 footer{
     padding: 3em;
     background-color: #3A546D;
