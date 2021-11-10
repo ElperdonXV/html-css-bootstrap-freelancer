@@ -1,3 +1,8 @@
+html{
+    font-size: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
 header{
     background-color: cadetblue;
 }
@@ -23,7 +28,6 @@ header{
 .portfolio {
     padding: 3em;
     text-align: center;
-    background-color: darkkhaki;
 }
 
 .col-design{
@@ -68,4 +72,9 @@ footer{
     height: 50px;
     color: white;
     text-align: center;
+}
+
+.portfolio-img img{
+    max-width: 100%;
+    border-radius: 10px;
 }
