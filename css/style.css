@@ -175,7 +175,7 @@ header{
 
 footer{
     padding: 3em;
-    background-color: lightslategray;
+    background-color: #3A546D;
     color: white;
     text-align: center;
 }
@@ -190,9 +190,26 @@ footer h4{
     font-size: 1em;
 }
 
+.round a{
+    text-decoration: none;
+    color: white;
+}
+.round{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+    display: inline-block;
+    line-height: 40px;
+}
+
+h4 a {
+    color: green;
+}
+
 .footer-bottom{
-    background-color: darkslateblue;
-    height: 50px;
+    background-color: #2C3E50;
+    line-height: 50px;
     color: white;
     text-align: center;
 }
