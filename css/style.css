@@ -142,10 +142,11 @@ header{
 
 .about{
     padding: 3em;
-    background-color: cornsilk;
+    background-color: #1ABC9C;
+    color: white;
 }
 
-.about h1, .about h2{
+.about h1{
     text-align: center;
 }
 
