@@ -5,6 +5,11 @@ html{
 
 header{
     background-color: #2C3E50;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
 }
 
 .hamburger-menu{
@@ -67,7 +72,8 @@ header{
 }
 
 .jumbo-container{
-    padding: 3em;
+    padding-top: calc(70px + 3em);
+    padding-bottom: 3em;
     display: flex;
     flex-direction: column;
     align-items: center;
