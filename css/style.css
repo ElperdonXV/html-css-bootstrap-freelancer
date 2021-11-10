@@ -182,6 +182,12 @@ footer{
 
 footer h3{
     text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+footer h4{
+    font-weight: normal;
+    font-size: 1em;
 }
 
 .footer-bottom{
